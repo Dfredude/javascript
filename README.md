@@ -1,5 +1,5 @@
 # JavaScript
-All excercices from the book Modern JavaScript for the Impatient by Cay S. Horstmann
+All excercices from the book "Modern JavaScript for the Impatient" by Cay S. Horstmann
 
 ## Index
 
