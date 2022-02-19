@@ -1,5 +1,5 @@
 
-# Non-coding questions
+# REPL Excercises
 
 ## 1. What values are displayed for the following kind of statements on the web browser, or node.js?
 
