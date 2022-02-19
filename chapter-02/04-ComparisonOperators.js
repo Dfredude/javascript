@@ -1,0 +1,9 @@
+console.log("Comparing rare values");
+console.log(undefined != null);
+console.log(undefined == null);
+console.log(null == 0);
+console.log(null == '');
+console.log(null < 0);
+console.log(null < '');
+console.log(null > 0);
+console.log(0 == '');
