@@ -1,7 +1,9 @@
 class Point{
     constructor(x, y){
-        this.x_coordinate = x
-        this.y_coordinate = y
+        if (typeof x === "number" && typeof y === "number"){
+            this.x_coordinate = x
+            this.y_coordinate = y
+        } else { throw TypeError('Type "Number" was expected') }
     }
     get xy(){ return `X:${this.x}\tY:${this.y}`}
     get x(){ return this.x_coordinate }
