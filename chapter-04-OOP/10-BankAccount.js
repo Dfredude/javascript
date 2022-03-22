@@ -6,8 +6,8 @@ export default class BankAccount {
     }
     get balance(){ return this.cash }
     deposit(amount){ 
-        console.log(this);
         this.cash += amount 
+        return `Final balance: ${this.cash}`
     }
     withdraw(amount){
         this.cash -= amount
