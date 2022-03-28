@@ -56,17 +56,15 @@ function getNumberParts( value ) {
 
 function getValue(number) {
     let {mantissa, exponent} = getNumberParts(number)
-    console.log(exponent);
-    console.log(mantissa);
     
-    if (exponent===0 && mantissa===0) return "Cero"
-    else if (exponent===2047 && mantissa===0) return "Infinity"
+    if (exponent===0 && mantissa===0) return  "denormalized" //Cero
+    else if (exponent===2047 && mantissa===0) return "special" //Infinity
     else if (exponent===0 && mantissa!=0) return "denormalized"
-    else if (exponent===2047 && mantissa!=0) return "NaN"
+    else if (exponent===2047 && mantissa!=0) return "special" //NaN
     else return "normalized"
 }
 
-console.log(getValue(NaN));
+console.log(getValue(0));
 
 // for (let i=0; i<1000; i++){
 //     let num = randInt()    
