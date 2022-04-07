@@ -1,0 +1,7 @@
+console.log(new Date(Date.parse('4/7/2022')))
+console.log(new Date(Date.parse('April 7, 2022')))
+console.log(new Date(Date.parse('7 April 2022')))
+console.log(new Date(Date.parse('2022 April 7')))
+console.log(new Date(Date.parse('2022 April 7 ')))
+console.log(new Date(Date.parse('2022-April-7')))
+console.log(new Date(Date.parse('2022-April-7 ')))
