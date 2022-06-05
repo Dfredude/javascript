@@ -7,3 +7,4 @@
 05. Create replacement functions with Unicode Code Points considerations, taking into account that some codepoints take up to two code units.
 06. Create a printf function
 07. Template Tagged Literal that returns 'raw' and 'cooked' strings.
+08. List of all possible ways to produce a Regular Expression that matches empty string
