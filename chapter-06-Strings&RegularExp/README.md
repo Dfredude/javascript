@@ -8,3 +8,5 @@
 06. Create a printf function
 07. Template Tagged Literal that returns 'raw' and 'cooked' strings.
 08. List of all possible ways to produce a Regular Expression that matches empty string
+09. Using multiline flag
+10. Regular Expression for finding emails and URLs
