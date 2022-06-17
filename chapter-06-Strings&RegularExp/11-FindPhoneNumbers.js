@@ -16,4 +16,4 @@ Karleen,559 791-2178
 Danyelle,6775399227
 Charo,3800506068`
 
-console.log(string.match(regex).length);
+console.log(string.match(regex));
