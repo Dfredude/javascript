@@ -11,3 +11,11 @@
 09. Using multiline flag
 10. Regular Expression for finding emails and URLs
 11. Regular Expression to find US & International phone numbers
+12. Clean phone numbers with Regular Expression
+13. Mathing quotes from a string
+14. Matching images URLs from an HTML document
+15. Mathing Integers in a string
+16. Matching complete string
+17. Converting Farenheit values to Celsius within a string
+18. Using **Tagged Template Literals** to substitute greek LATEX values, into their actual Unicode character.
+19. **PENDING**
