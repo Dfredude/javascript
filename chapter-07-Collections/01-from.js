@@ -15,7 +15,10 @@ let test_obj = {
     1: "Second value",
     2: "Third value",
     3: "Fourth value",
-    4: undefined
+    4: undefined,
+    5: "This value shouldn't be here",
+    random_property: "Hello there"
 }
 
 console.log(from(test_obj))
+console.log(Array.from(test_obj))
