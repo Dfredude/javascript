@@ -12,7 +12,5 @@ All solutions to the excercices from the book "Modern JavaScript for the Impatie
 | Chapter 5 | **[Numbers & Dates](https://github.com/Dfredude/javascript/tree/main/chapter-05-Numbers&Dates)** |
 | Chapter 6 | **[Strings & Regular Expressions](https://github.com/Dfredude/javascript/tree/main/chapter-06-Strings&RegularExp)** |
 | Chapter 7 | **[Arrays & Collections](https://github.com/Dfredude/javascript/tree/main/chapter-07-Collections)** |
-| Chapter 8 | Coming Soon |
-| Chapter 9 | Coming Soon |
-| Chapter 10 | Coming Soon |
-| Chapter 11 | Coming Soon |
+| Chapter 8 | **[Internationalization](https://github.com/Dfredude/javascript/tree/main/chapter-08-Internationalization)** |
+| Chapter 9 | **[Asynchronous Programming](https://github.com/Dfredude/javascript/tree/main/chapter-09-Asynchronous)** |
