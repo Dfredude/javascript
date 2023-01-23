@@ -1,0 +1,15 @@
+{
+  "name": "chapter-09-asynchronous",
+  "version": "1.0.0",
+  "description": "For using dependencies",
+  "main": "14.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alfredo Dominguez",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
