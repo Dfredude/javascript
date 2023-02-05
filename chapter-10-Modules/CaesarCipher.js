@@ -1,4 +1,4 @@
-import Logger from "./LoggerClass"
+import Logger from "./LoggerClass.js"
 
 Logger.threshold = Logger.THRESHOLDS.NONE
 
